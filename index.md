@@ -18,10 +18,8 @@
    
       <div class="button">  
           
-          <li><a href="https://socialclub.rockstargames.com/crew/cherrys_taste_good/wall" class="join-btn"><span>Join</span>         
-
-</a></li>              
-</div>        
+          <li><a href="https://socialclub.rockstargames.com/crew/cherrys_taste_good/wall" class="join-btn"><span>Join</span></a></li>                            
+      </div>        
         
         
         <!----text--->
