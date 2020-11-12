@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html>
     <head>
         <link rel="stylesheet" href="crew website.css">
